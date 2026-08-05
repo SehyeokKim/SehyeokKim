@@ -16,11 +16,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SehyeokKim&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SehyeokKim&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SehyeokKim&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/SehyeokKim=hyeok&layout=compact)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c2833&height=180&section=header&text=Sehyeok%20Kim&fontSize=45&fontColor=ffffff)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SehyeokKim&layout=compact&theme=one-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SehyeokKim&theme=react-dark)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sehyeok%20Kim&fontSize=50)
 
 Here are some ideas to get you started:
 
