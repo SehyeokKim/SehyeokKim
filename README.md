@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c2833&height=200&section=header&text=Sehyeok%20Kim&fontSize=48&fontColor=ffffff&desc=Infra%20%26%20DevSecOps%20Engineer&descSize=18&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c2833&height=200&section=header&text=Sehyeok%20Kim&fontSize=48&fontColor=ffffff&desc=Infra%20%26%20DevSecOps%20Engineer&descSize=18&descAlignY=75&animation=fadeIn)
 
 ### 『 아무도 보지 않을 때에도, 누군가 보고 있는 것처럼 당당하게 행동한다 』
 
@@ -96,7 +96,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SehyeokKim&layout=compact&theme=one-dark" height="165"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SehyeokKim&layout=compact&theme=onedark" height="165"/>
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SehyeokKim&theme=react-dark&hide_border=true)
