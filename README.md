@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c2833&height=200&section=header&text=Sehyeok%20Kim&fontSize=48&fontColor=ffffff&desc=Infra%20%26%20DevSecOps%20%C2%B7%20IT%20Ops%20%2F%20AI&descSize=18&descAlignY=75&animation=fadeIn)
+![header](./assets/header.svg)
 
 ### 『 아무도 보지 않을 때에도, 누군가 보고 있는 것처럼 당당하게 행동한다 』
 
@@ -199,4 +199,4 @@ AI 역시 같은 원칙으로 씁니다 — **AI는 빠르게 만들고, 검증�
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SehyeokKim&theme=react-dark&hide_border=true)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c2833,100:000000&height=120&section=footer)
+![footer](./assets/footer.svg)
