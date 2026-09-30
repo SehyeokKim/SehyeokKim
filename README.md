@@ -191,12 +191,4 @@ AI 역시 같은 원칙으로 씁니다 — **AI는 빠르게 만들고, 검증�
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SehyeokKim&layout=compact&theme=onedark" height="165"/>
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SehyeokKim&theme=react-dark&hide_border=true)
-
 ![footer](./assets/footer.svg)
