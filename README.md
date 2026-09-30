@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./assets/header.svg)
+![header](./assets/header-v2.svg)
 
 ### 『 아무도 보지 않을 때에도, 누군가 보고 있는 것처럼 당당하게 행동한다 』
 
